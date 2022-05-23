@@ -1,0 +1,11 @@
+.addTask {
+  /* Sample */
+  width: 200px;
+  height: 200px;
+  border: 1px solid red;
+}
+.inputbox{
+  margin: auto;
+  width: 360px;
+  margin-left: 37%;
+}
